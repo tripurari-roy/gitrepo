@@ -1,3 +1,9 @@
 food1
 food2
 food3
+roti 
+daal
+rice
+m1
+m2
+m3
